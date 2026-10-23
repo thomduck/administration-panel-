@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "brand": "Thomduck",
+  "settings": {
+    "currency": "NGN",
+    "welcomeBonus": 0,
+    "dailyReward": 1000
+  },
+  "users": [],
+  "products": [],
+  "transactions": [],
+  "giftCodes": [],
+  "purchases": [],
+  "withdrawals": [],
+  "paymentUploads": [],
+  "auditLog": []
+}
